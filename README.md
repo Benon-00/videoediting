@@ -103,7 +103,7 @@ All skill levels welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Good first 
 
 ## Support the project
 
-If this saves you time, you can support development (from **$10**) via **[GitHub Sponsors](https://github.com/sponsors/<your-username>)** · **[Ko-fi](https://ko-fi.com/<your-name>)**. Donations fund compute for testing, and bounties for the voice-over work. Thank you!
+If this saves you time, you can support development (from **$10**) via **[GitHub Sponsors](https://selar.com/showlove/nerdeyengineer)** · Donations fund compute for testing, and bounties for the voice-over work. Thank you!
 
 ## Legal / responsible use
 This tool is a *processor*. **Do not commit or distribute copyrighted footage, music or transcripts** — the repo ships none. You are responsible for having rights to the media you edit and for complying with platform rules and local law (fair use/fair dealing varies). If you build voice cloning, only clone voices you have consent to use.
