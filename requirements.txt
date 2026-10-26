@@ -1,0 +1,14 @@
+numpy
+scipy
+tqdm
+librosa
+soundfile
+opencv-python
+scenedetect[opencv]
+mediapipe
+faster-whisper
+resemblyzer
+scikit-learn
+demucs
+pyloudnorm
+moderngl

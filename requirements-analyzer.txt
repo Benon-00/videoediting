@@ -1,0 +1,10 @@
+# only for edit_analyzer_full.py (forensic mode); heavy
+matplotlib
+pandas
+pyarrow
+ultralytics
+transformers
+torch
+tensorflow
+tensorflow-hub
+pillow
