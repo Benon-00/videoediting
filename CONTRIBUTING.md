@@ -32,4 +32,4 @@ Create a branch: `git checkout -b feat/short-name`.
 Include: OS, Python version, ffmpeg version, GPU/CPU, the command, the **log** (`beat_sync_editor.log`), and your `CONFIG` diff.
 
 ## Conduct
-Be kind and constructive. Add the Contributor Covenant via GitHub → Add file → `CODE_OF_CONDUCT.md`.
+Be kind and constructive. 
